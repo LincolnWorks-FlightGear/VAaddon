@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<PropertyList>
+<sim>
+    <model>
+			<livery>
+				<name type="string">Porcupine</name>
+				<texture>../Liveries/748vip/Porcupine2.png</texture>
+			</livery>
+			<nightlights>
+				<name type="string">Porcupine</name>
+				<texture>../Liveries/748vip/porcupine_light2.png</texture>
+			</nightlights>
+			<turbofans>
+				<name type="string">Porcupine</name>
+				<texture>../Liveries/Liveries/748vip/turbofan.png</texture>
+			</turbofans>
+			<wings>
+				<name type="string">Porcupine</name>
+				<texture>../Liveries/748vip/wings.png</texture>
+			</wings>
+			<nightwings>
+				<name type="string">Porcupine</name>
+				<texture>../Liveries/748vip/wings-lts.png</texture>
+			</nightwings>
+			<nightengines>
+				<name type="string">Porcupine</name>
+				<texture>../Liveries/748vip/turbofan-lts.png</texture>
+			</nightengines>
+    </model>
+</sim>
+</PropertyList>
